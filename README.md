@@ -1,5 +1,6 @@
 # Omori Photo Album Player
 A Rainmeter Skin that allows you to control your music, and look at nice pictures from the game Omori
+
 Warning: The pictures contain major spoilers for Omori
 
 How to use this skin:
