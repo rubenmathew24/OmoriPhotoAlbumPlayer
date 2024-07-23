@@ -1,9 +1,17 @@
 # Omori Photo Album Player
 A Rainmeter Skin that allows you to control your music, and look at nice pictures from the game Omori
 
-Warning: The pictures contain major spoilers for Omori
+**Warning: The pictures contain major spoilers for Omori**
 
-How to use this skin:
+## How to Install:
+
+### Using Meters on Demand
+If you have Meters on Demand (MonD) installed, just run `mond install rubenmathew24/OmoriPhotoAlbumPlayer` in Powershell
+
+### From Git
+If you do not have MonD, download the .rmskin file from the releases tab and run the file
+
+## How to use this skin:
 
 1. Open Rainmeter Manager (Find the Rainmeter icon in the tray)
 2. Load the Player.ini skin in OmoriPhotoAlbum
